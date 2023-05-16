@@ -1,1 +1,27 @@
-# financial_dashboard
+![Slide1](./presentation/Slide1.JPG)
+![Slide2](./presentation/Slide2.JPG)
+### <center> And so time disintegrated into nothingness..
+<center><img src="./presentation/aging.gif"/>
+
+###### <center><font size = "3">Source: https://personaltumblr.laurelgreen.com/</font>
+![Slide3](./presentation/Slide3.JPG)
+![Slide4](./presentation/Slide4.JPG)
+![Slide5](./presentation/Slide5.JPG)
+![Slide6](./presentation/Slide6.JPG)
+![Slide7_1](./images/converter_layout.png)
+![Slide7_2](./images/converter_function.png)
+![Slide7_3](./images/alerts_layout.png)
+![Slide7_4](./images/alert_scheduled_successfully.png)
+![Slide7_5](./images/alerts_sms.jpg)
+![Slide7_6](./images/charts_layout.png)
+![Slide7_7](./images/charts_entries_and_functions.png)
+![Slide7_8](./images/charts_main_plot.png)
+![Slide7_9](./images/portfolio_layout.png)
+![Slide7_10](./images/portfolio_entries.png)
+![Slide7_11](./images/portfolio_tab_plot.png)
+![Slide7_12](./images/portfolio_metrics.png)
+![Slide7_13](./images/portfolio_correlation_heatmap.png)
+![Slide7_14](./images/portfolio_tab_cumulative_returns_plot.png)
+![Slide8](./presentation/Slide8.JPG)
+![Slide9](./presentation/Slide9.JPG)
+![Slide10ٍ](./presentation/Slide10.JPG)
