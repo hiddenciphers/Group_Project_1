@@ -22,6 +22,8 @@
 ![Slide7_12](./images/portfolio_metrics.png)
 ![Slide7_13](./images/portfolio_correlation_heatmap.png)
 ![Slide7_14](./images/portfolio_tab_cumulative_returns_plot.png)
+![Slide7_15](./images/portfolio_performance_report_1.png)
+![Slide7_16](./images/portfolio_performance_report_2.png)
 ![Slide8](./presentation/Slide8.JPG)
 ![Slide9](./presentation/Slide9.JPG)
 ![Slide10ٍ](./presentation/Slide10.JPG)
